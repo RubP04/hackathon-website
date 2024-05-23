@@ -10,6 +10,21 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
+## Table of Contents
+
+- Table of Contents
+- Overview
+- Figma Design
+- Node.js
+- Next.js
+- Environment Variables
+- Installation
+- Running the Project
+- Formatting and Linting
+- Building the Project
+- Contributing
+- License
+
 ## Figma
 
 [Hackathon Website Template Figma Design File](https://www.figma.com/file/YsmdMaZuYrkiaiWcB9XY1P/Hackathon-2024-Backend?type=design&node-id=0%3A1&mode=design&t=OkgKqUOkpAYqfjXU-1)
