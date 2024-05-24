@@ -105,3 +105,7 @@ npm run eslint
 ```bash
 npm run build
 ```
+
+## Contributing
+
+Contributions are welcome! Please open issues and submit pull requests for any improvements or bug fixes. For more details, please refer to the contribution guidelines in the repository.
