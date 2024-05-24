@@ -25,6 +25,10 @@
 - Contributing
 - License
 
+## Overview
+
+The Hackathon Website Template is designed to facilitate the organization and management of hackathons. This project is built with modern web technologies including Next.js, TailwindCSS, and JavaScript.
+
 ## Figma
 
 [Hackathon Website Template Figma Design File](https://www.figma.com/file/YsmdMaZuYrkiaiWcB9XY1P/Hackathon-2024-Backend?type=design&node-id=0%3A1&mode=design&t=OkgKqUOkpAYqfjXU-1)
