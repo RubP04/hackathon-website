@@ -109,3 +109,7 @@ npm run build
 ## Contributing
 
 Contributions are welcome! Please open issues and submit pull requests for any improvements or bug fixes. For more details, please refer to the contribution guidelines in the repository.
+
+## License
+
+The project currently does not have a license. We suggest adopting the MIT License for its permissive nature, which allows for extensive use and modification of the code.
